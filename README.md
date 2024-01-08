@@ -1,5 +1,5 @@
 # FREE-LEARNING-FOR-WEB-DEVELOPERMENT-BEGINNERS
-List of resources related to various web development topics! If you're looking to complete the list or organize it, here's a suggested completion:
+List of resources related to various web development topics!
 This is aimed to provide clear and accurate links for each resource, ensuring the list is comprehensive and helpful for web development learners. 
 
 HTML
